@@ -1,0 +1,14 @@
+{
+	"contentrating" : "Everyone",
+	"dependency" : "1373816444",
+	"description" : "Just a Day-Night clock",
+	"file" : "",
+	"preset" : 
+	{
+		"schemecolor" : "0.12156862745098039 0.12156862745098039 0.36470588235294116"
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Abstract" ],
+	"title" : "Day-Night Time",
+	"visibility" : "public"
+}
